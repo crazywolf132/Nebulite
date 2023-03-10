@@ -1,0 +1,10 @@
+/dist
+/test-reports
+/node_modules
+/npm-debug.log
+/index.d.ts
+/app/node_modules
+package-lock.json
+.DS_Store
+.idea
+.vscode
